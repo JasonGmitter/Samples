@@ -95,6 +95,8 @@ body {
 	color: #FFFFFF;
 }
 
+/* Forms */
+
 .formdrop {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 7pt;
@@ -110,6 +112,8 @@ body {
 	font-size: 8pt;
 }
 
+/* Gallery */
+
 #galleryTb {
 	background-color: #000000;
 }
@@ -124,6 +128,8 @@ body {
 	width: 115px;
 	height: 61px;
 }
+
+/* Main stuff */
 
 .main_content {
 	background-color: #f7f7f7;
